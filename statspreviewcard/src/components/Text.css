@@ -1,0 +1,8 @@
+#heading{
+    /* white-space: nowrap; */
+    white-space: break-spaces;    
+}
+
+.stats{
+    display: flex;
+}

@@ -1,0 +1,16 @@
+.card{
+    display: flex;        
+    background: hsl(277, 64%, 61%); 
+}
+
+.card div{
+    flex-basis: 500px;
+    background-color: hsl(244, 38%, 16%);
+    color: white;
+
+}
+
+.card img{
+    opacity: 0.25;
+    
+}

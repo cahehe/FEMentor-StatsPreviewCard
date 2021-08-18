@@ -1,6 +1,11 @@
 #heading{
     /* white-space: nowrap; */
+    color: hsl(0, 0%, 100%);
     white-space: break-spaces;    
+}
+
+#paragraph{    
+    color: hsla(0, 0%, 100%, 0.75);
 }
 
 .stats{

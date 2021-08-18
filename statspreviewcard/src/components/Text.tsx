@@ -5,7 +5,7 @@ const Text = () => {
     return(
         <div>
             <h1 id = "heading">Get <span>Insights</span> that help your business grow.</h1>
-            <p>Discover the benefits of data analytics and make better decisions regarding revenue, 
+            <p id = "paragraph">Discover the benefits of data analytics and make better decisions regarding revenue, 
                 customer experience, and overall efficiency
             </p>
 

@@ -1,6 +1,11 @@
 .card{
     display: flex;        
-    background: hsl(277, 64%, 61%); 
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    /*after the top and left are set to 50%, the middle point is set to the left side of our card 
+    but we want it to be in the middle of our card thus we use translate(-50%, -50%)*/
+    transform: translate(-50%, -50%);    
 }
 
 .card div{
